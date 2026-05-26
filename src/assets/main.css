@@ -1,0 +1,28 @@
+@import './base.css';
+
+@font-face {
+    font-family: 'jakarta-bold';
+    src: url('@/assets/font/jakarta-bold.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'inter-regular';
+    src: url('@/assets/font/inter-regular.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'inter-semi-bold';
+    src: url('@/assets/font/inter-semi-bold.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'inter-italic-regular';
+    src: url('@/assets/font/inter-italic-regular.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
