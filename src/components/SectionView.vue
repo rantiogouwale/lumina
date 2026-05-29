@@ -32,13 +32,13 @@
 }
 
 h2{
-  font-family: 'jakarta-bold',sans-serif;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   color: #FFFFFF;
   font-size: 48px;
 }
 
 .first_p{
-  font-family: 'inter-regular',sans-serif;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-size: 18px;
   color: #FFFFFF ;
 }
@@ -55,10 +55,11 @@ input{
   border:1px solid #FFFFFF33 ;
   border-radius: 15px;
   width:298px ;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   outline: none;
 }
 input ::placeholder{
-  font-family: 'inter-regular',sans-serif;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-size: 16px;
   color: #FFFFFF80;
 }
@@ -82,7 +83,7 @@ button:hover{
 
 .second_p{
   color: #FFFFFF;
-  font-family: 'inter-italic-regular',sans-serif;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-size: 14px;
 }
 </style>

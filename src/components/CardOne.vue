@@ -46,17 +46,17 @@ border-radius: 10px;
 
 .first_1{
   color:#151C27 ;
-   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-size:14px ;
 }
 .first_2{
   color:#464555 ;
-   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-size:14px ;
 }
 .first_3{
   color:#3525CD ;
-   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-size:14px ;
 }
 </style>

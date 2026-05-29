@@ -70,13 +70,13 @@ h4{
   color: #3525CD;
   font-size: 16px;
   text-transform: uppercase;
-   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 p{
   text-align:start;
   font-size: 14px;
-   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .footer_bottom{

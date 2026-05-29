@@ -26,3 +26,16 @@
     font-weight: normal;
     font-style: normal;
 }
+
+header{
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  background-color: #fff;
+  z-index: 1000;
+}
+
+main{
+  padding-top: 50px;
+}

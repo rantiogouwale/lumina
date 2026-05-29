@@ -1,4 +1,6 @@
-<script setup></script>
+<script setup>
+
+</script>
 
 <template>
   <div class="container">
@@ -47,8 +49,10 @@
   font-size: 14px;
 }
 h2 {
-  font-size: 48px;
+  font-size: 40px;
   gap: 52, 8px;
+  margin-bottom: 22px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .Elegance {
